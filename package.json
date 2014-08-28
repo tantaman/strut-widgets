@@ -4,7 +4,7 @@
   "src": "src",
   "test": "test",
   "dist": "dist",
-  "mainInput": "App",
+  "mainInput": "Examples",
   "mainOutput": "main",
   "dependencies": {
     "react": "~0.11.0",

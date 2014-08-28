@@ -1,0 +1,13 @@
+.dropdown-menu > ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+body.strt-theme-light {
+	background-color: #f1f2f3;
+}
+
+body.strt-theme-dark {
+	background-color: #eee;
+}
