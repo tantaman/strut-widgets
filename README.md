@@ -1,4 +1,4 @@
 strut-widgets
 =============
 
-Strut's widget library
+Strut 2.0's widget library
